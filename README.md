@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shreshthijain7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12831GSZsXmcRZFs9RJdCMCiutuu43i4a/view?usp=drivesdk](https://drive.google.com/file/d/12831GSZsXmcRZFs9RJdCMCiutuu43i4a/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FN_aIrPgBekQ_-xnkRzgsR4xQQnTCqkN/view?usp=drivesdk](https://drive.google.com/file/d/1FN_aIrPgBekQ_-xnkRzgsR4xQQnTCqkN/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think I am funny XD**
 
