@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shreshthi-badjatya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreshthi-badjatya" height="30" width="40" /></a>
 <a href="https://instagram.com/shreshthii" target="blank"><img align="center" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="shreshthii" height="30" width="40" /></a>
-<a href="https://leetcode.com/shreshthi/" target=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode-alt.svg" alt="shreshthi-badjatya" height="30" width="40" /></a>
+<a href="https://leetcode.com/shreshthi/" target=""><img align="center" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3270180/leetcode-icon-md.png" alt="shreshthi-badjatya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
